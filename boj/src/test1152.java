@@ -31,20 +31,21 @@ public class test1152 {
 
 		
 		
-System.out.println(s.split(" ").length);
+
 */
 
 /*
- * 처음 시도했던 식
- * 
- *
-	
-		
+ * 처음 시도했던 식	
 		int c= arr.length;
 		
 		if(s==" ") {
-			c=0;
+			
 		}
 		
 		System.out.println(c);
+*/
+
+/*
+ * 방법2
+ *System.out.println(s.split(" ").length);
 */
